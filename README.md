@@ -1,5 +1,10 @@
 <h1>Brian K<br/> <a href="https://www.linkedin.com/in/brian-kownacki-94980259/">Cybersecurity Professional</a></h1>
 
+<h2>Certifications:</h2>
+- <b>CompTIA Secruity+</b></br>
+- <b>Google Cybersecurity Specilization</b></br>
+- <b>Microsoft Cybersecurity Analyst Specialization</b></br>
+
 <h2>Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
