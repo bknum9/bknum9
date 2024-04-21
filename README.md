@@ -8,9 +8,9 @@
 <h2>Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
-  - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)
+- <b>Full Stack Web App (React, NodeJS, MongoDB)</b>
+  - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
