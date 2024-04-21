@@ -13,10 +13,8 @@
   - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>React Native Mobile App</b>
   - [Nutrition App](https://github.com/bknum9/RNNutritionApp.git)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Javascript Web App</b>
+  - [Beginner Task Tracker App](https://github.com/bknum9/task-tracker.git)
 - <b>Python Projects</b>
   - [Beginner Python Projects](https://github.com/bknum9/python_projects.git)
 
