@@ -1,4 +1,4 @@
-<h1>Brian K<br/> <a href="www.linkedin.com/in/brian-kownacki-94980259">Cybersecurity Professional</a></h1>
+<h1>Brian K<br/> <a href="https://www.linkedin.com/in/brian-kownacki-94980259/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
