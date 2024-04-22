@@ -9,6 +9,7 @@
 
 - <b>Cybersecurity Projects</b>
   - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)
+  - - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)
 - <b>Full Stack Web App (React, NodeJS, MongoDB)</b>
   - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>React Native Mobile App</b>
