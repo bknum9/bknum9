@@ -19,4 +19,5 @@
   - [Beginner Task Tracker App](https://github.com/bknum9/task-tracker.git)
 - <b>Python Projects</b>
   - [Beginner Python Projects](https://github.com/bknum9/python_projects.git)
+  - [Python Scripting for Devops](https://github.com/bknum9/PythonScriptingDevOps.git)
 
