@@ -15,7 +15,7 @@
   - [Google Chrome Security and Extensions for Beginners](https://github.com/bknum9/ChromeSec-Ext.git)
   - [Microsoft Windows Settings and Navigation for Beginners](https://github.com/bknum9/WindowsSettings-Navigation.git)
   - [Network Basics on Microsoft Windows](https://github.com/bknum9/WindowsNetworkBasics.git)
-- <b>Full Stack Web App (React, NodeJS, MongoDB)</b>
+- <b>Full Stack Web App (MongoDB, Express.js, React, Node.js)</b>
   - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>React Native Mobile App</b>
   - [Nutrition App](https://github.com/bknum9/RNNutritionApp.git)
