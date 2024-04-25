@@ -15,6 +15,7 @@
   - [Google Chrome Security and Extensions for Beginners](https://github.com/bknum9/ChromeSec-Ext.git)
   - [Microsoft Windows Settings and Navigation for Beginners](https://github.com/bknum9/WindowsSettings-Navigation.git)
   - [Network Basics on Microsoft Windows](https://github.com/bknum9/WindowsNetworkBasics.git)
+  - [Wireshark for Beginners: Capture Packets](https://github.com/bknum9/WiresharkCapturePackets.git)
 - <b>Full Stack Web App (MongoDB, Express.js, React, Node.js)</b>
   - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>React Native Mobile App</b>
@@ -24,6 +25,7 @@
 - <b>Python Projects</b>
   - [Beginner Python Projects](https://github.com/bknum9/python_projects.git)
   - [Python Scripting for Devops](https://github.com/bknum9/PythonScriptingDevOps.git)
+  - [Encryption with Python: Encrypt data with key pairs](https://github.com/bknum9/EncyptionPython.git)
 - <b>SQL Projects</b>
   - [Relational Databases for Beginners](https://github.com/bknum9/RelationalDatabases.git)
     
