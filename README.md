@@ -26,7 +26,7 @@
   - [Beginner Task Tracker App](https://github.com/bknum9/task-tracker.git)
 - <b>Python Projects</b>
   - [Beginner Python Projects](https://github.com/bknum9/python_projects.git)
-  - [Python Scripting for Devops](https://github.com/bknum9/PythonScriptingDevOps.git)
+  - [Python Scripting for DevOps](https://github.com/bknum9/PythonScriptingDevOps.git)
   - [Encryption with Python: Encrypt data with key pairs](https://github.com/bknum9/EncyptionPython.git)
 - <b>SQL Projects</b>
   - [Relational Databases for Beginners](https://github.com/bknum9/RelationalDatabases.git)
