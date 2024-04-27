@@ -16,6 +16,8 @@
   - [Microsoft Windows Settings and Navigation for Beginners](https://github.com/bknum9/WindowsSettings-Navigation.git)
   - [Network Basics on Microsoft Windows](https://github.com/bknum9/WindowsNetworkBasics.git)
   - [Wireshark for Beginners: Capture Packets](https://github.com/bknum9/WiresharkCapturePackets.git)
+  - [introduction to Bash Shell Scripting](https://github.com/bknum9/BashShellScripting.git)
+  - [Wireshark for Basic Network Security Analysis](https://github.com/bknum9/WiresharkBasicNetworkSecAnalysis.git)
 - <b>Full Stack Web App (MongoDB, Express.js, React, Node.js)</b>
   - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>React Native Mobile App</b>
