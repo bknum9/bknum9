@@ -19,6 +19,7 @@
   - [introduction to Bash Shell Scripting](https://github.com/bknum9/BashShellScripting.git)
   - [Security with AWS: Identity and Access Management (IAM)](https://github.com/bknum9/AWSIAM.git)
   - [Wireshark for Basic Network Security Analysis](https://github.com/bknum9/WiresharkBasicNetworkSecAnalysis.git)
+  - [VEGA for Beginners: Scan for Web Vulnerabilities](https://github.com/bknum9/VEGAVulnerabilityScan.git)
 - <b>Full Stack Web App (MongoDB, Express.js, React, Node.js)</b>
   - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>React Native Mobile App</b>
