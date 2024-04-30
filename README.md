@@ -20,6 +20,7 @@
   - [Security with AWS: Identity and Access Management (IAM)](https://github.com/bknum9/AWSIAM.git)
   - [Wireshark for Basic Network Security Analysis](https://github.com/bknum9/WiresharkBasicNetworkSecAnalysis.git)
   - [VEGA for Beginners: Scan for Web Vulnerabilities](https://github.com/bknum9/VEGAVulnerabilityScan.git)
+  - [Data Encryption using AWS KMS From UST](https://github.com/bknum9/DataEncryptAWSKMS.git)
 - <b>Full Stack Web App (MongoDB, Express.js, React, Node.js)</b>
   - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>React Native Mobile App</b>
@@ -30,6 +31,7 @@
   - [Beginner Python Projects](https://github.com/bknum9/python_projects.git)
   - [Python Scripting for DevOps](https://github.com/bknum9/PythonScriptingDevOps.git)
   - [Encryption with Python: Encrypt data with key pairs](https://github.com/bknum9/EncyptionPython.git)
+  - [Create Python Linux Script to Generate a Disk Usage Report](https://github.com/bknum9/PythonDiskUsageReport.git)
 - <b>SQL Projects</b>
   - [Relational Databases for Beginners](https://github.com/bknum9/RelationalDatabases.git)
     
