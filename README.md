@@ -21,6 +21,7 @@
   - [Wireshark for Basic Network Security Analysis](https://github.com/bknum9/WiresharkBasicNetworkSecAnalysis.git)
   - [VEGA for Beginners: Scan for Web Vulnerabilities](https://github.com/bknum9/VEGAVulnerabilityScan.git)
   - [Data Encryption using AWS KMS From UST](https://github.com/bknum9/DataEncryptAWSKMS.git)
+  - [Metasploit for Beginners: Ethical Penetration Testing](https://github.com/bknum9/MetasploitEthical-PenTest.git)
 - <b>Full Stack Web App (MongoDB, Express.js, React, Node.js)</b>
   - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
 - <b>React Native Mobile App</b>
@@ -34,5 +35,11 @@
   - [Create Python Linux Script to Generate a Disk Usage Report](https://github.com/bknum9/PythonDiskUsageReport.git)
 - <b>SQL Projects</b>
   - [Relational Databases for Beginners](https://github.com/bknum9/RelationalDatabases.git)
+ 
+    
+  <h2>Virtual Internships:</h2>
+
+- <b>Internships</b>
+  - [Mastercard Cybersecruity Job Simulation](https://github.com/bknum9/Mastercard.git)
     
 
