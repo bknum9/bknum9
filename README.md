@@ -42,5 +42,6 @@
 - <b>Internships</b>
   - [Mastercard Cybersecurity Job Simulation](https://github.com/bknum9/Mastercard.git)
   - [Telstra Cybersecurity Job Simulation](https://github.com/bknum9/TelstraVirtualIntern.git)
+  - [AIG Shields Up: Cybersecurity virtual experience program](https://github.com/bknum9/AIG_Virtual_Intern.git)
     
 
