@@ -40,6 +40,7 @@
   <h2>Virtual Internships:</h2>
 
 - <b>Internships</b>
-  - [Mastercard Cybersecruity Job Simulation](https://github.com/bknum9/Mastercard.git)
+  - [Mastercard Cybersecurity Job Simulation](https://github.com/bknum9/Mastercard.git)
+  - [Telstra Cybersecurity Job Simulation](https://github.com/bknum9/TelstraVirtualIntern.git)
     
 
