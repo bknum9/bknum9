@@ -6,36 +6,37 @@
 - <b>Google Cybersecurity Specilization</b></br>
 - <b>Microsoft Cybersecurity Analyst Specialization</b></br>
 
-
 <h2>Projects:</h2>
-- <b>Cybersecurity Projects</b>
-  - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)
-  - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)
-  - [Getting Started with Linux Terminal](https://github.com/bknum9/LinuxTerminal.git)
-  - [Microsoft Windows Defender and Firewall for Beginners](https://github.com/bknum9/WindowsDefenderFirewall.git)
-  - [Google Chrome Security and Extensions for Beginners](https://github.com/bknum9/ChromeSec-Ext.git)
-  - [Microsoft Windows Settings and Navigation for Beginners](https://github.com/bknum9/WindowsSettings-Navigation.git)
-  - [Network Basics on Microsoft Windows](https://github.com/bknum9/WindowsNetworkBasics.git)
-  - [Wireshark for Beginners: Capture Packets](https://github.com/bknum9/WiresharkCapturePackets.git)
-  - [introduction to Bash Shell Scripting](https://github.com/bknum9/BashShellScripting.git)
-  - [Security with AWS: Identity and Access Management (IAM)](https://github.com/bknum9/AWSIAM.git)
-  - [Wireshark for Basic Network Security Analysis](https://github.com/bknum9/WiresharkBasicNetworkSecAnalysis.git)
-  - [VEGA for Beginners: Scan for Web Vulnerabilities](https://github.com/bknum9/VEGAVulnerabilityScan.git)
-  - [Data Encryption using AWS KMS From UST](https://github.com/bknum9/DataEncryptAWSKMS.git)
-  - [Metasploit for Beginners: Ethical Penetration Testing](https://github.com/bknum9/MetasploitEthical-PenTest.git)
-- <b>Full Stack Web App (MongoDB, Express.js, React, Node.js)</b>
-  - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)
-- <b>React Native Mobile App</b>
-  - [Nutrition App](https://github.com/bknum9/RNNutritionApp.git)
-- <b>Javascript Web App</b>
-  - [Beginner Task Tracker App](https://github.com/bknum9/task-tracker.git)
-- <b>Python Projects</b>
-  - [Beginner Python Projects](https://github.com/bknum9/python_projects.git)
-  - [Python Scripting for DevOps](https://github.com/bknum9/PythonScriptingDevOps.git)
-  - [Encryption with Python: Encrypt data with key pairs](https://github.com/bknum9/EncyptionPython.git)
-  - [Create Python Linux Script to Generate a Disk Usage Report](https://github.com/bknum9/PythonDiskUsageReport.git)
-- <b>SQL Projects</b>
-  - [Relational Databases for Beginners](https://github.com/bknum9/RelationalDatabases.git)
+- <b>Cloud Labs and Projects</b></br>
+ - [AWS Identity and Access Management Labs](https://github.com/bknum9/AWS-IAM-Labs.git)</br>
+- <b>Cybersecurity Projects</b></br>
+  - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)</br>
+  - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)</br>
+  - [Getting Started with Linux Terminal](https://github.com/bknum9/LinuxTerminal.git)</br>
+  - [Microsoft Windows Defender and Firewall for Beginners](https://github.com/bknum9/WindowsDefenderFirewall.git)</br>
+  - [Google Chrome Security and Extensions for Beginners](https://github.com/bknum9/ChromeSec-Ext.git)</br>
+  - [Microsoft Windows Settings and Navigation for Beginners](https://github.com/bknum9/WindowsSettings-Navigation.git)</br>
+  - [Network Basics on Microsoft Windows](https://github.com/bknum9/WindowsNetworkBasics.git)</br>
+  - [Wireshark for Beginners: Capture Packets](https://github.com/bknum9/WiresharkCapturePackets.git)</br>
+  - [introduction to Bash Shell Scripting](https://github.com/bknum9/BashShellScripting.git)</br>
+  - [Security with AWS: Identity and Access Management (IAM)](https://github.com/bknum9/AWSIAM.git)</br>
+  - [Wireshark for Basic Network Security Analysis](https://github.com/bknum9/WiresharkBasicNetworkSecAnalysis.git)</br>
+  - [VEGA for Beginners: Scan for Web Vulnerabilities](https://github.com/bknum9/VEGAVulnerabilityScan.git)</br>
+  - [Data Encryption using AWS KMS From UST](https://github.com/bknum9/DataEncryptAWSKMS.git)</br>
+  - [Metasploit for Beginners: Ethical Penetration Testing](https://github.com/bknum9/MetasploitEthical-PenTest.git)</br>
+- <b>Full Stack Web App (MongoDB, Express.js, React, Node.js)</b></br>
+  - [Player Performance Dashboard](https://github.com/bknum9/dashboard.git)</br>
+- <b>React Native Mobile App</b></br>
+  - [Nutrition App](https://github.com/bknum9/RNNutritionApp.git)</br>
+- <b>Javascript Web App</b></br>
+  - [Beginner Task Tracker App](https://github.com/bknum9/task-tracker.git)</br>
+- <b>Python Projects</b></br>
+  - [Beginner Python Projects](https://github.com/bknum9/python_projects.git)</br>
+  - [Python Scripting for DevOps](https://github.com/bknum9/PythonScriptingDevOps.git)</br>
+  - [Encryption with Python: Encrypt data with key pairs](https://github.com/bknum9/EncyptionPython.git)</br>
+  - [Create Python Linux Script to Generate a Disk Usage Report](https://github.com/bknum9/PythonDiskUsageReport.git)</br>
+- <b>SQL Projects</b></br>
+  - [Relational Databases for Beginners](https://github.com/bknum9/RelationalDatabases.git)</br>
  
     
   <h2>Virtual Internships:</h2>
