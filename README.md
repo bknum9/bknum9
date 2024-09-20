@@ -9,6 +9,7 @@
 <h2>Projects:</h2>
 <h4>Cloud Labs and Projects</h4>
  - [AWS Identity and Access Management Labs](https://github.com/bknum9/AWS-IAM-Labs.git)</br>
+ - [AWS S3 Labs](https://github.com/bknum9/AWS-S3-Labs.git)</br>
 <h4>Cybersecurity Projects</h4>
   - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)</br>
   - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)</br>
