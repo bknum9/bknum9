@@ -43,8 +43,8 @@
 <h4>SQL Projects</h4>
   - [Relational Databases for Beginners](https://github.com/bknum9/RelationalDatabases.git)</br>
   <h2>Virtual Internships:</h2>
-  - [Mastercard Cybersecurity Job Simulation](https://github.com/bknum9/Mastercard.git)
-  - [Telstra Cybersecurity Job Simulation](https://github.com/bknum9/TelstraVirtualIntern.git)
-  - [AIG Shields Up: Cybersecurity virtual experience program](https://github.com/bknum9/AIG_Virtual_Intern.git)
+  - [Mastercard Cybersecurity Job Simulation](https://github.com/bknum9/Mastercard.git)</br>
+  - [Telstra Cybersecurity Job Simulation](https://github.com/bknum9/TelstraVirtualIntern.git)</br>
+  - [AIG Shields Up: Cybersecurity virtual experience program](https://github.com/bknum9/AIG_Virtual_Intern.git)</br>
     
 
