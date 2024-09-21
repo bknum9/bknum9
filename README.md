@@ -11,6 +11,9 @@
  - [AWS Identity and Access Management Labs](https://github.com/bknum9/AWS-IAM-Labs.git)</br>
  - [AWS S3 Labs](https://github.com/bknum9/AWS-S3-Labs.git)</br>
  - [AWS EC2 Labs](https://github.com/bknum9/AWS-EC2-Labs.git)</br>
+ - [AWS Lambda Labs](https://github.com/bknum9/AWS-Lambda-Labs.git)</br>
+ - [AWS DynamoDB Labs](https://github.com/bknum9/AWS-DynamoDB-Labs.git)</br>
+ - [AWS Serverless Web App Lab](https://github.com/bknum9/AWS-Serverless-Web-App-Labs.git)</br>
 <h4>Cybersecurity Projects</h4>
   - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)</br>
   - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)</br>
@@ -39,11 +42,7 @@
   - [Create Python Linux Script to Generate a Disk Usage Report](https://github.com/bknum9/PythonDiskUsageReport.git)</br>
 <h4>SQL Projects</h4>
   - [Relational Databases for Beginners](https://github.com/bknum9/RelationalDatabases.git)</br>
- 
-    
   <h2>Virtual Internships:</h2>
-
-- <b>Internships</b>
   - [Mastercard Cybersecurity Job Simulation](https://github.com/bknum9/Mastercard.git)
   - [Telstra Cybersecurity Job Simulation](https://github.com/bknum9/TelstraVirtualIntern.git)
   - [AIG Shields Up: Cybersecurity virtual experience program](https://github.com/bknum9/AIG_Virtual_Intern.git)
