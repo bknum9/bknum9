@@ -14,6 +14,7 @@
  - [AWS Lambda Labs](https://github.com/bknum9/AWS-Lambda-Labs.git)</br>
  - [AWS DynamoDB Labs](https://github.com/bknum9/AWS-DynamoDB-Labs.git)</br>
  - [AWS Serverless Web App Lab](https://github.com/bknum9/AWS-Serverless-Web-App-Labs.git)</br>
+ - [AWS EFS Labs](https://github.com/bknum9/AWS-EFS-Labs.git)</br>
 <h4>Cybersecurity Projects</h4>
   - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)</br>
   - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)</br>
