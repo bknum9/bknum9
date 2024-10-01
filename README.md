@@ -17,6 +17,7 @@
  - [AWS EFS Labs](https://github.com/bknum9/AWS-EFS-Labs.git)</br>
  - [AWS VPC Labs](https://github.com/bknum9/AWS-VPC-Labs.git)</br>
  - [AWS CloudFormation](https://github.com/bknum9/AWS-CloudFormation-Labs.git)</br>
+ - [AWS Load Balancer](https://github.com/bknum9/AWS-Load-Balancer.git)</br>
 <h4>Cybersecurity Projects</h4>
   - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)</br>
   - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)</br>
