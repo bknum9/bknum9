@@ -3,6 +3,7 @@
 <h2>Certifications:</h2>
 - <b>CompTIA Secruity+</b></br>
 - <b>AWS Certified Cloud Practitioner</b></br>
+- <b>AWS Cloud Solutions Architect - Associate</b></br>
 - <b>Google Cybersecurity Specilization</b></br>
 - <b>Microsoft Cybersecurity Analyst Specialization</b></br>
 
