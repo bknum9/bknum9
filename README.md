@@ -20,6 +20,7 @@
  - [AWS Load Balancer](https://github.com/bknum9/AWS-Load-Balancer.git)</br>
  - [AWS CloudWatch](https://github.com/bknum9/AWS-CloudWatch.git)</br>
  - [AWS CloudTrail](https://github.com/bknum9/AWS-CloudTrail.git)</br>
+ - [AWS CloudFront](https://github.com/bknum9/AWs-CloudFront-Labs.git)</br>
 <h4>Cybersecurity Projects</h4>
   - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)</br>
   - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)</br>
