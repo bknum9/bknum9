@@ -3,7 +3,8 @@
 <h2>Certifications:</h2>
 - <b>CompTIA Secruity+</b></br>
 - <b>AWS Certified Cloud Practitioner</b></br>
-- <b>AWS Cloud Solutions Architect - Associate</b></br>
+- <b>AWS Certified Solutions Architect - Associate</b></br>
+- <b>AWS Certified Security - Specialty</b></br>
 - <b>Google Cybersecurity Specilization</b></br>
 - <b>Microsoft Cybersecurity Analyst Specialization</b></br>
 
@@ -22,7 +23,8 @@
  - [AWS CloudWatch Labs](https://github.com/bknum9/AWS-CloudWatch.git)</br>
  - [AWS CloudTrail Labs](https://github.com/bknum9/AWS-CloudTrail.git)</br>
  - [AWS CloudFront Labs](https://github.com/bknum9/AWs-CloudFront-Labs.git)</br>
- - [AWS KMS Labs](https://github.com/bknum9/AWS-KMS-Labs.git)</br>
+ - [Microsoft Azure Labs](https://github.com/bknum9/AWS-KMS-Labs.git)</br>
+ 
 <h4>Cybersecurity Projects</h4>
   - [Wireshark for Beginners: TCP/IP Protocol Fundamentals](https://coursera.org/share/595741e3f08b0c2de5936c2acc7cf2a9)</br>
   - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/bknum9/VulnerabilityScanNmap.git)</br>
